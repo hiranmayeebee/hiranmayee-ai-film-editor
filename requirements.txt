@@ -1,0 +1,5 @@
+moviepy==1.0.3
+transformers==4.44.0
+torch==2.4.0
+imageio-ffmpeg==0.5.1
+opencv-python==4.10.0
